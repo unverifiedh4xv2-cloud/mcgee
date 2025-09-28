@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "mcgee",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "c7c61d2e-568b-414f-b140-c478a1a8e366",
+      "database_name": "buddy"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
